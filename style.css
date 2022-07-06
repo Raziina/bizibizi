@@ -1,0 +1,16 @@
+.responsve-img{
+    background-image: url('t.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 94vh;
+    padding-top: 5px;
+}
+.kouma {
+    text-align: left;
+    font-weight: bold;
+    color: rgb(255, 253, 253) ;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-top: 150px;
+}
